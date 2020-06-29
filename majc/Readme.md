@@ -6,4 +6,6 @@ The M. Andrew Johnston Research Collection (coden: MAJC) is currently housed at 
 I just added it to have content.  I can upload label templates and other things
 
 ## Serial Label Template
-The file is available in this directory.
+The file is available in this directory. [Download Here](./MAJC-Serial-Labels.xls)
+
+To use this template, change the starting number in the cell A2 (first label) and the rest of the labels will automatically update to auto increment by 1 and add leading zeros.  This file prints 525 labels on a single page.
