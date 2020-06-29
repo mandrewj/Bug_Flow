@@ -37,11 +37,13 @@ These are the things that are important for creating a useful digitization workf
 **Ecdysis data and image entry - in Spanish** The Ecdysis portal is [located here](https://serv.biokic.asu.edu/ecdysis/) and the instructions document is [available here](https://serv.biokic.asu.edu/ecdysis/content/InstruccionesEcdysis.pdf)
 
 **MAJC documentation** [See this page about the MAJC](majc/)
-
-
-
-
-
+  
+  
+  
+  
+  
+    
+    
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mandrewj/Bug_Flow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
