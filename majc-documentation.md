@@ -1,0 +1,1 @@
+The M. Andrew Johnston Research Collection (coden: MAJC) is currently housed at (but not integrated within) Arizona State University Biodiversity Knowledge Integration Center (BioKIC). This collection contains primarily specimens of darkling beetles (family Tenebrionidae Latrielle, 1802), with an emphasis on taxa from the southwestern deserts of North America.
