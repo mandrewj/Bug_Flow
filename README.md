@@ -40,3 +40,4 @@ These are the things that are important for creating a useful digitization workf
 
 ### [Markdown quick reference](markdown.md)
   
+# See public page here [Bug Flow](https://mandrewj.github.io/Bug_Flow/)
