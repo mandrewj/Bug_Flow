@@ -1,3 +1,4 @@
+![iDigBio Logo](https://www.idigbio.org/sites/default/files/idigbio_logo_0.png)
 # MODULE TITLE
 
 ## Module Purpose: 
