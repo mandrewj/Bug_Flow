@@ -29,6 +29,7 @@ These are the things that are important for creating a useful digitization workf
 [iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_4B_Pinned_Things.pdf)
 
 [2020 update](module_4A.md)
+
 ### Module 4C Event Data Capture Tasks
 [iDigBio link](https://www.idigbio.org/sites/default/files/sites/default/files/Module_4C_Pinned_Things.pdf)
 ### Module 5 Quality Assurance Tasks
